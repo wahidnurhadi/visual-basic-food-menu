@@ -1,0 +1,11 @@
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\bin\Debug\latian FP.exe.config
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\bin\Debug\latian FP.exe
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\bin\Debug\latian FP.pdb
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\bin\Debug\latian FP.xml
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\obj\Debug\latian FP.vbprojResolveAssemblyReference.cache
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\obj\Debug\latian_FP.Form1.resources
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\obj\Debug\latian_FP.Resources.resources
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\obj\Debug\latian FP.vbproj.GenerateResource.Cache
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\obj\Debug\latian FP.exe
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\obj\Debug\latian FP.xml
+E:\WORK HARD\SEMESTER IV\DOSEN\Ikmah - Perancangan Basis Data\latian\latian FP\latian FP\obj\Debug\latian FP.pdb
